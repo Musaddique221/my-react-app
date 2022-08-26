@@ -1,7 +1,6 @@
 
 import { useState } from "react";
 import "./App.css";
-import react from "react";
 
 function App() {
   const [date, setDate] = useState("");
